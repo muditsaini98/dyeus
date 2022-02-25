@@ -91,7 +91,7 @@ function App() {
             <p
               style={{
                 fontSize: 12,
-                color: "#465D68",
+                color: "#28333D",
                 marginTop: 5,
                 fontFamily: "Belgrano",
               }}
@@ -121,9 +121,9 @@ function App() {
             </div>
             <div id="price2">
               <CurrencyRupeeOutlinedIcon
-                style={{ fontSize: 15, color: "#3C464F" }}
+                style={{ fontSize: 15, color: "#28333D" }}
               />
-              <p id="cutThrough" style={{ display: "inline" }}>
+              <p id="cutThrough" style={{ display: "inline", color: "#28333D" }}>
                 795
               </p>
             </div>
