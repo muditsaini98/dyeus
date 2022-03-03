@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dyeus/static/css/main.a583c50f.css",
+    "main.js": "/dyeus/static/js/main.518df2ce.js",
+    "static/js/787.8df20f20.chunk.js": "/dyeus/static/js/787.8df20f20.chunk.js",
+    "index.html": "/dyeus/index.html",
+    "main.a583c50f.css.map": "/dyeus/static/css/main.a583c50f.css.map",
+    "main.518df2ce.js.map": "/dyeus/static/js/main.518df2ce.js.map",
+    "787.8df20f20.chunk.js.map": "/dyeus/static/js/787.8df20f20.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a583c50f.css",
+    "static/js/main.518df2ce.js"
+  ]
+}
